@@ -5,6 +5,10 @@
   <artifactId>InfoWebApp</artifactId>
   <packaging>war</packaging>
   <version>1.6</version>
+   <properties>
+   <maven.compiler.source>16</maven.compiler.source>
+   <maven.compiler.target>16</maven.compiler.target>
+ </properties> 
   <name>InfoWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
