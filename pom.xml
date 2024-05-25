@@ -4,10 +4,10 @@
   <groupId>Infoweb</groupId>
   <artifactId>InfoWebApp</artifactId>
   <packaging>war</packaging>
-  <version>1.6</version>
+  <version>1.2</version>
    <properties>
-   <maven.compiler.source>16</maven.compiler.source>
-   <maven.compiler.target>16</maven.compiler.target>
+   <maven.compiler.source>18</maven.compiler.source>
+   <maven.compiler.target>18</maven.compiler.target>
  </properties> 
   <name>InfoWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
