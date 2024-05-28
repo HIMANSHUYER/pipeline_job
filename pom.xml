@@ -4,7 +4,7 @@
   <groupId>Infoweb</groupId>
   <artifactId>InfoWebApp</artifactId>
   <packaging>war</packaging>
-  <version>1.2</version>
+  <version>1.6</version>
    <properties>
    <maven.compiler.source>16</maven.compiler.source>
    <maven.compiler.target>16</maven.compiler.target>
